@@ -2,7 +2,7 @@
     "name": "greabcok/jdnm",
     "description": "Maping nested json to doctrine ORM",
     "require": {
-        "doctrine/orm": "^2.5",
+        "doctrine/orm": "^2.5"
     },
     "license": "MIT",
     "authors": [
